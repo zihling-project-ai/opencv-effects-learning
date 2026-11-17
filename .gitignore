@@ -1,0 +1,23 @@
+# Local Python environments and bytecode
+/.venv/
+/.venv-macos/
+__pycache__/
+*.py[cod]
+
+# Personal videos and temporary renders
+/video_input/
+/video_output/
+.opencv-render-*/
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[aA][vV][iI]
+*.[mM][kK][vV]
+*.[wW][eE][bB][mM]
+
+# Archived experiments and macOS metadata
+/archive/
+.DS_Store
+._*
+
+# Local MediaPipe model weights
+/models/*.task
