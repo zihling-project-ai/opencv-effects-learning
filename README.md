@@ -20,6 +20,8 @@
 
 ![原創飛船動畫。右欄上方為 Sobel 和 Laplacian 的左右對照，下方為色盤格子。](docs/spaceship-preview.png)
 
+[下載四支範例影片（飛船與雙人舞的輸入、輸出）](https://github.com/zihling-project-ai/opencv-effects-learning/releases/tag/v1.0.0)
+
 ### 完整特效時間表
 
 完整示範長 2 分 13 秒。影片會按下列時間順序切換效果。
