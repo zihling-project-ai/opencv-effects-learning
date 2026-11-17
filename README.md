@@ -12,8 +12,6 @@
 
 ![雙人舞前後對照。上排是人臉追蹤，下排是人體骨架。](docs/duo-dance-preview.jpg)
 
-[輸入影片](video_input/duo-dance-input.mp4) · [輸出影片](video_output/duo-dance-output.mp4)
-
 雙人舞素材由 cottonbro studio 提供，依 Pexels 授權使用。素材經裁切、重複剪接和幀率轉換，輸出無音軌。 [原始素材](https://www.pexels.com/video/young-people-dancing-while-looking-at-camera-6724468/) · [Pexels 授權](https://www.pexels.com/license/)
 
 ### 飛船 | 短片示範
@@ -21,10 +19,6 @@
 用程式繪製的原創飛船動畫，示範輪廓對照和多種配色。下圖左邊是原畫面，右邊是程式的實際輸出。
 
 ![原創飛船動畫。右欄上方為 Sobel 和 Laplacian 的左右對照，下方為色盤格子。](docs/spaceship-preview.png)
-
-[輸入影片](video_input/spaceship-input.mp4) · [輸出影片](video_output/spaceship-output.mp4)
-
-影片連結指向本機專案內的範例檔案。
 
 ### 完整特效時間表
 
